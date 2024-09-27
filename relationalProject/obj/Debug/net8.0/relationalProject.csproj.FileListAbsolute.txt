@@ -1,0 +1,15 @@
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/bin/Debug/net8.0/relationalProject
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/bin/Debug/net8.0/relationalProject.deps.json
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/bin/Debug/net8.0/relationalProject.runtimeconfig.json
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/bin/Debug/net8.0/relationalProject.dll
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/bin/Debug/net8.0/relationalProject.pdb
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.AssemblyInfoInputs.cache
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.AssemblyInfo.cs
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.csproj.CoreCompileInputs.cache
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.sourcelink.json
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.dll
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/refint/relationalProject.dll
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.pdb
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/relationalProject.genruntimeconfig.cache
+/home/brammont/LocalDev/tafeCode/relationalProject/relationalProject/obj/Debug/net8.0/ref/relationalProject.dll
